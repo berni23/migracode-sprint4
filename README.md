@@ -11,5 +11,10 @@ Each section follows the same pattern:
 
 ## Notebooks
 
-- [`python_print.ipynb`](python_print.ipynb) — Printing in Python (`print()`, f-strings, formatting)
-- [`python_arrays.ipynb`](python_arrays.ipynb) — Lists (Python's arrays): indexing, slicing, list comprehensions
+- [`python_print`](1_python_print.ipynb) — Printing in Python (`print()`, f-strings, formatting)
+- [`python_lists`](2_python_lists.ipynb) — Lists (Python's arrays): indexing, slicing, list comprehensions
+- [`python_loops`](3_python_loops.ipynb) — Loops: for, while
+- [`python_json_dicts`](4_python_json_dicts.ipynb) — JSON and Dictionaries: creating, accessing, modifying
+
+
+-  [`final_exercise`](5_final_exercise.ipynb) — A final bonus challenge
