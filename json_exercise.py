@@ -33,7 +33,7 @@ events_json = """
     "time": "18:00",
     "capacity": 20,
     "category": "tech",
-    "participants": ["Alice", "Eve", "Fay", "George", "Hannah"]
+    "participants": ["Alice", "Eve", "Fay", "George", "Hanna"]
   },
   {
     "id": "evt-3",
@@ -60,7 +60,7 @@ events_json = """
     "time": "18:00",
     "capacity": 20,
     "category": "tech",
-    "participants": ["George", "Hannah", "Alice", "Bob"]
+    "participants": ["George", "Hanna", "Alice", "Bob"]
   },
   {
     "id": "evt-6",
@@ -83,6 +83,8 @@ events = json.loads(events_json)
 #    the names of all events happening on that day.
 
 def events_on_day(day):
+
+
     pass
 
 
